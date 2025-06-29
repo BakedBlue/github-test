@@ -1,0 +1,24 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "Archivable",
+        "CFRAME",
+        "cframes",
+        "Collidable",
+        "Freefall",
+        "lerp",
+        "Orthonormalize",
+        "overdamped",
+        "Raycast",
+        "rojo",
+        "setmetatable",
+        "spherecast",
+        "underdamped",
+        "wallstick"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
