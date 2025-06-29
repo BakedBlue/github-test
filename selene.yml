@@ -1,0 +1,16 @@
+base: roblox
+name: selene_defs
+globals:
+  # override Roblox require style with string requires
+  require:
+    args:
+    - type: string
+  
+  # Add missing CFrame constructor
+  CFrame.fromRotationBetweenVectors:
+    args:
+      - type:
+          display: Vector3
+      - type:
+          display: Vector3
+    must_use: true
